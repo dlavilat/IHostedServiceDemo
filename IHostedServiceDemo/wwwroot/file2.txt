@@ -7,3 +7,40 @@ WriteToFileHostedService: Doing some work at 21/08/2019 11:17:56
 WriteToFileHostedService: Doing some work at 21/08/2019 11:18:03
 WriteToFileHostedService: Doing some work at 21/08/2019 11:18:10
 WriteTofileHostedServices: Process Stopped
+WriteTofileHostedServices: Process Started
+WriteToFileHostedService: Doing some work at 21/08/2019 05:08:50
+WriteToFileHostedService: Doing some work at 21/08/2019 05:08:57
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:04
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:11
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:18
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:25
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:32
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:39
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:46
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:53
+WriteToFileHostedService: Doing some work at 21/08/2019 05:10:00
+WriteToFileHostedService: Doing some work at 21/08/2019 05:10:07
+WriteToFileHostedService: Doing some work at 21/08/2019 05:10:14
+WriteToFileHostedService: Doing some work at 21/08/2019 05:10:21
+WriteToFileHostedService: Doing some work at 21/08/2019 05:10:28
+WriteToFileHostedService: Doing some work at 21/08/2019 05:10:35
+WriteTofileHostedServices: Process Started
+WriteToFileHostedService: Doing some work at 21/08/2019 05:14:23
+WriteToFileHostedService: Doing some work at 21/08/2019 05:14:30
+WriteToFileHostedService: Doing some work at 21/08/2019 05:14:37
+WriteToFileHostedService: Doing some work at 21/08/2019 05:14:44
+WriteToFileHostedService: Doing some work at 21/08/2019 05:14:51
+WriteToFileHostedService: Doing some work at 21/08/2019 05:14:58
+WriteToFileHostedService: Doing some work at 21/08/2019 05:15:05
+WriteToFileHostedService: Doing some work at 21/08/2019 05:15:12
+WriteTofileHostedServices: Process Stopped
+WriteTofileHostedServices: Process Started
+WriteToFileHostedService: Doing some work at 21/08/2019 05:16:48
+WriteToFileHostedService: Doing some work at 21/08/2019 05:16:55
+WriteToFileHostedService: Doing some work at 21/08/2019 05:17:02
+WriteToFileHostedService: Doing some work at 21/08/2019 05:17:09
+WriteToFileHostedService: Doing some work at 21/08/2019 05:17:16
+WriteToFileHostedService: Doing some work at 21/08/2019 05:17:23
+WriteToFileHostedService: Doing some work at 21/08/2019 05:17:30
+WriteToFileHostedService: Doing some work at 21/08/2019 05:17:37
+WriteToFileHostedService: Doing some work at 21/08/2019 05:17:44

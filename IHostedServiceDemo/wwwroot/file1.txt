@@ -75,3 +75,53 @@ WriteToFileHostedService: Doing some work at 21/08/2019 11:17:58
 WriteToFileHostedService: Doing some work at 21/08/2019 11:18:03
 WriteToFileHostedService: Doing some work at 21/08/2019 11:18:08
 WriteTofileHostedServices: Process Stopped
+WriteTofileHostedServices: Process Started
+WriteToFileHostedService: Doing some work at 21/08/2019 05:08:50
+WriteToFileHostedService: Doing some work at 21/08/2019 05:08:55
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:00
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:05
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:10
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:15
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:20
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:25
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:30
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:35
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:40
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:45
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:50
+WriteToFileHostedService: Doing some work at 21/08/2019 05:09:55
+WriteToFileHostedService: Doing some work at 21/08/2019 05:10:00
+WriteToFileHostedService: Doing some work at 21/08/2019 05:10:05
+WriteToFileHostedService: Doing some work at 21/08/2019 05:10:10
+WriteToFileHostedService: Doing some work at 21/08/2019 05:10:15
+WriteToFileHostedService: Doing some work at 21/08/2019 05:10:20
+WriteToFileHostedService: Doing some work at 21/08/2019 05:10:25
+WriteToFileHostedService: Doing some work at 21/08/2019 05:10:30
+WriteToFileHostedService: Doing some work at 21/08/2019 05:10:35
+WriteTofileHostedServices: Process Started
+WriteToFileHostedService: Doing some work at 21/08/2019 05:14:23
+WriteToFileHostedService: Doing some work at 21/08/2019 05:14:28
+WriteToFileHostedService: Doing some work at 21/08/2019 05:14:33
+WriteToFileHostedService: Doing some work at 21/08/2019 05:14:38
+WriteToFileHostedService: Doing some work at 21/08/2019 05:14:43
+WriteToFileHostedService: Doing some work at 21/08/2019 05:14:48
+WriteToFileHostedService: Doing some work at 21/08/2019 05:14:53
+WriteToFileHostedService: Doing some work at 21/08/2019 05:14:58
+WriteToFileHostedService: Doing some work at 21/08/2019 05:15:03
+WriteToFileHostedService: Doing some work at 21/08/2019 05:15:08
+WriteToFileHostedService: Doing some work at 21/08/2019 05:15:13
+WriteTofileHostedServices: Process Stopped
+WriteTofileHostedServices: Process Started
+WriteToFileHostedService: Doing some work at 21/08/2019 05:16:48
+WriteToFileHostedService: Doing some work at 21/08/2019 05:16:53
+WriteToFileHostedService: Doing some work at 21/08/2019 05:16:58
+WriteToFileHostedService: Doing some work at 21/08/2019 05:17:03
+WriteToFileHostedService: Doing some work at 21/08/2019 05:17:08
+WriteToFileHostedService: Doing some work at 21/08/2019 05:17:13
+WriteToFileHostedService: Doing some work at 21/08/2019 05:17:18
+WriteToFileHostedService: Doing some work at 21/08/2019 05:17:23
+WriteToFileHostedService: Doing some work at 21/08/2019 05:17:28
+WriteToFileHostedService: Doing some work at 21/08/2019 05:17:33
+WriteToFileHostedService: Doing some work at 21/08/2019 05:17:38
+WriteToFileHostedService: Doing some work at 21/08/2019 05:17:43
+WriteToFileHostedService: Doing some work at 21/08/2019 05:17:48
